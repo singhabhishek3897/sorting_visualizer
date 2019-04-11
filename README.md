@@ -1,1 +1,1 @@
-# sorting_visualizer
+# Sorting Algorithms Visualizer using OpenGL
